@@ -1,0 +1,7 @@
+required packages:
+	- googleapiclient.discovery
+	- argparse
+	- psycopg2
+	- flask
+	- flask_restplus
+	- nltk

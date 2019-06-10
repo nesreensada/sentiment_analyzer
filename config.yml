@@ -1,0 +1,17 @@
+db:
+ user : nisreen
+ host : 127.0.0.1
+ port : 5432
+ database : youtube_comments
+youtube:
+ API_KEY: MOCK_API_KEY
+ API_VERSION: v3
+ API_SERVICE_NAME: youtube
+youtube_videos_id:
+ - Zb-pUW7R5XQ
+ - xnKOtSDJp2E 
+ - U0p7lx-enms
+ - _t25xAp270o
+ - TJlpS4vhKP0
+ - viRegied9dw
+ - W9zEnCHWz9I
